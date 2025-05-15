@@ -4,41 +4,47 @@
         "title": "Breaking News: New Tech Revolutionizes the Market",
         "author": "John Doe",
         "date": "2025-05-15",
-        "content": "Today, a new breakthrough in technology has taken the world by storm. Industry leaders are calling it a game changer..."
+        "content": "Today, a new breakthrough in technology has taken the world by storm. Industry leaders are calling it a game changer...",
+        "link": "article-1.html"
     },
     {
         "id": 2,
         "title": "Local Community Comes Together for Charity Event",
         "author": "Jane Smith",
         "date": "2025-05-15",
-        "content": "In a heartwarming display of unity, the local community organized a charity event raising funds for a good cause..."
+        "content": "In a heartwarming display of unity, the local community organized a charity event raising funds for a good cause...",
+        "link": "article-2.html"
     },
     {
         "id": 3,
         "title": "Sports Team Wins Championship After Decades of Struggle",
         "author": "Mike Johnson",
         "date": "2025-05-15",
-        "content": "In an emotional victory, the local sports team clinched their first championship title in over 30 years..."
+        "content": "In an emotional victory, the local sports team clinched their first championship title in over 30 years...",
+        "link": "article-3.html"
     },
     {
         "id": 4,
         "title": "Global Economy Shows Signs of Recovery Amidst Challenges",
         "author": "Emily Turner",
         "date": "2025-05-15",
-        "content": "Economists are cautiously optimistic as data suggests the global economy is on the path to recovery after the recent downturn..."
+        "content": "Economists are cautiously optimistic as data suggests the global economy is on the path to recovery after the recent downturn...",
+        "link": "article-4.html"
     },
     {
         "id": 5,
         "title": "Innovative Startup Raises Record Funding for Clean Energy",
         "author": "Sophia Lee",
         "date": "2025-05-15",
-        "content": "A new startup focused on clean energy solutions has raised a record amount in funding to accelerate its sustainable projects..."
+        "content": "A new startup focused on clean energy solutions has raised a record amount in funding to accelerate its sustainable projects...",
+        "link": "article-5.html"
     },
     {
         "id": 6,
         "title": "Health Experts Share New Insights on Mental Health Awareness",
         "author": "David Brown",
         "date": "2025-05-15",
-        "content": "As mental health becomes an increasingly important topic, health experts are emphasizing the need for greater awareness and access to care..."
+        "content": "As mental health becomes an increasingly important topic, health experts are emphasizing the need for greater awareness and access to care...",
+        "link": "article-6.html"
     }
 ]
