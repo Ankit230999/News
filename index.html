@@ -32,6 +32,11 @@
             font-size: 1.1em;
             line-height: 1.6;
         }
+        .read-more {
+            font-weight: bold;
+            color: #0066cc;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -62,6 +67,7 @@
                             <p class="author">By ${article.author}</p>
                             <p class="date">${article.date}</p>
                             <p>${article.content}</p>
+                            <a href="${article.link}" class="read-more">Read More</a>
                         `;
                         articlesContainer.appendChild(articleElement);
                     });
